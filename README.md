@@ -1,0 +1,4 @@
+- 👋 Hey! I’m Ramya Shri, a computer science undergrad.
+- 👀 I’m interested in networking, web development and literature!
+- 🌱 I’m currently learning kubernetes, docker and basics of cloud computing.
+- 📫 You can reach me at ramyashri.shakthi@gmail.com
