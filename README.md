@@ -1,4 +1,3 @@
-- 👋 Hey! I’m Ramya Shri, a computer science undergrad.
-- 👀 I’m interested in network security, edge computing, web development and literature!
-- 🌱 I’m currently exploring SDN, P4 and programmable data plane devices.
-- 📫 You can reach me at ramyashri.shakthi@gmail.com
+- Hey! I’m Ramya Shri, a PhD scholar in IITB CSE.
+- I’m interested in blockchain security, network security, and literature!
+- You can reach me at ramyashri.shakthi@gmail.com
